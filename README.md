@@ -1,5 +1,6 @@
 0DAY upload shell 
 install python 2.7.14
+
 link :
 https://www.python.org/downloads/release/python-2714/
 Open Cmd write :
