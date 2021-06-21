@@ -1,9 +1,9 @@
 0DAY upload shell 
-install python 2.7.14<br>
+install python3 <br>
 link :<br>
-https://www.python.org/downloads/release/python-2714/<br>
+https://www.python.org/downloads<br>
 Open Cmd write :<br> 
-cd C:\Python27<br>
+cd C:\Python3 <br>
 then<br>
 pip install requests<br>
 then<br>
