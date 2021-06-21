@@ -1,4 +1,7 @@
 0DAY upload shell 
+
+
+- [ ]  @Windows
 install python3 <br>
 link :<br>
 https://www.python.org/downloads<br>
